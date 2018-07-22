@@ -1,4 +1,4 @@
-package lil.DesignPatterns;
+package lil.DesignPatterns.Course;
 
 /**
  * 一般情况下我们是将一种行为写成一个类方法，比如计算器类中有加、减、乘、除四种方法，

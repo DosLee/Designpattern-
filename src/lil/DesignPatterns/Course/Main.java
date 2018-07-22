@@ -1,4 +1,4 @@
-package lil.DesignPatterns;
+package lil.DesignPatterns.Course;
 
 /**
  * 描述:
